@@ -1,4 +1,4 @@
-# Object detection using YOLO object detector
+# Objected Detection based on YOLO and OpenCV
 
 
 1.	YOLO object detection in images

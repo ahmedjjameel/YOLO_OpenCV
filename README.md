@@ -28,6 +28,8 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 
 
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/81799459/226166537-cc098f4f-36f6-40f1-bd1e-d9188f1a21ae.gif)
+
 
 
 ### 3. Real-time object detection with deep learning and OpenCV

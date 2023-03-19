@@ -14,6 +14,10 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 ![street](https://user-images.githubusercontent.com/81799459/226161306-225e0a4f-0ba4-4249-a5c6-fae9ea7cfe9f.gif)
 
 
+![2](https://user-images.githubusercontent.com/81799459/226163322-c72a5041-255a-4840-8aa9-fa8d3c4ee13c.gif)
+
+
+
 ### 2. YOLO object detection in video streams
 
         python yolo_video.py --input videos/video_file_name.mp4 --output output/video_file_name.avi --yolo yolo-coco
@@ -21,6 +25,9 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/81799459/226162430-19df3b94-be43-4292-ac55-07d84fa150f8.gif)
+
+
+
 
 
 ### 3. Real-time object detection with deep learning and OpenCV

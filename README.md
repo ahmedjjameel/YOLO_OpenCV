@@ -9,7 +9,8 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 
         python yolo.py --image images/image_file_name.jpg
         
-        
+        ![street](https://user-images.githubusercontent.com/81799459/226161306-225e0a4f-0ba4-4249-a5c6-fae9ea7cfe9f.gif)
+
 
 ### 2. YOLO object detection in video streams
 

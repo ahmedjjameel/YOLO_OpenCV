@@ -39,6 +39,7 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
         
         
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/81799459/226170172-59c0715f-41bd-4988-9834-939816dedd95.gif)
 
-https://user-images.githubusercontent.com/81799459/226168960-b0b7f8bf-b954-48af-b451-97e30313b705.mp4
+
 

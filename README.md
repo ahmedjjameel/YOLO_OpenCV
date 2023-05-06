@@ -9,7 +9,7 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 ### 1. YOLO object detection in images
 
 
-        python yolo.py --image images/image_file_name.jpg
+        python yolo_images.py --image images/image_file_name.jpg
         
         
         

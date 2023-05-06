@@ -1,4 +1,4 @@
-## Objected Detection based on YOLO and OpenCV
+## Object Detection based on YOLO and OpenCV
 
 Object detection, a subfield of computer vision, is primarily concerned with the identification and localization of objects in images or videos with a certain degree of confidence. An identified object is generally annotated with a bounding box, which provides information to the viewer about the object’s nature and location in the scene.
 

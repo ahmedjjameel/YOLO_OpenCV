@@ -3,6 +3,8 @@
 
 ## 1. YOLO object detection in images
 
+Object detection, a subfield of computer vision, is primarily concerned with the identification and localization of objects in images or videos with a certain degree of confidence. An identified object is generally annotated with a bounding box, which provides information to the viewer about the object’s nature and location in the scene.
+
 In this project, objected detection based on YOLO and OpenCV will be used to detect images and video streams using Deep Learning will be implemented using Python Programming. YOLO is trained on the COCO dataset. The COCO dataset consists of 80 labels, including, but not limited to:
 People, Bicycles, Cars and trucks, Airplanes, Stop signs and fire hydrants, Animals, including cats, dogs, birds, horses, cows, and sheep, to name a few, Kitchen and dining objects, such as wine glasses, cups, forks, knives, spoons, etc. … and much more!
 You can find a full list of what YOLO trained on the COCO dataset can detect using this [link](https://github.com/pjreddie/darknet/blob/master/data/coco.names).

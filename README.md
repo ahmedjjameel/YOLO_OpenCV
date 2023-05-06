@@ -33,6 +33,20 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/81799459/226166537-cc098f4f-36f6-40f1-bd1e-d9188f1a21ae.gif)
 
 
+In the video/GIF, you can see not only the vehicles being detected, but people, as well as the traffic lights, are detected too!
+The YOLO object detector is performing quite well here.
+
+Limitation:
+Arguably the largest limitation and drawback of the YOLO object detector is that:
+•	It does not always handle small objects well
+•	It especially does not handle objects grouped close together
+•	The reason for this limitation is due to the YOLO algorithm itself:
+The YOLO object detector divides an input image into an SxS grid where each cell in the grid predicts only a single object. If there exist multiple, small objects in a single cell then YOLO will be unable to detect them, ultimately leading to missed object detections. Therefore, if you know your dataset consists of many small objects grouped close together then you should not use the YOLO object detector.
+In terms of small objects, Faster R-CNN tends to work the best; however, it’s also the slowest.
+SSDs can also be used here; however, SSDs can also struggle with smaller objects (but not as much as YOLO).
+SSDs often give a nice tradeoff in terms of speed and accuracy as well.
+
+
 
 ### 3. Real-time object detection with deep learning and OpenCV
 

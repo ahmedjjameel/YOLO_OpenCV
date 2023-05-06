@@ -1,7 +1,7 @@
 ## Objected Detection based on YOLO and OpenCV
 
 
-## 1. YOLO object detection in images
+### 1. YOLO object detection in images
 
 Object detection, a subfield of computer vision, is primarily concerned with the identification and localization of objects in images or videos with a certain degree of confidence. An identified object is generally annotated with a bounding box, which provides information to the viewer about the object’s nature and location in the scene.
 
@@ -20,7 +20,7 @@ You can find a full list of what YOLO trained on the COCO dataset can detect usi
 
 
 
-## 2. YOLO object detection in video streams
+### 2. YOLO object detection in video streams
 
         python yolo_video.py --input videos/video_file_name.mp4 --output output/video_file_name.avi --yolo yolo-coco
         
